@@ -9,6 +9,7 @@ module.exports = {
     siteTitle: `Qiyuan Bao`,
     siteTitleAlt: `Qiyuan's blog`,
     siteDescription: `Qiyuan's personal blog`,
+    siteUrl: `https://ilpikachu.github.io/`,
     siteLanguage: `en`,
   },
   plugins: [
