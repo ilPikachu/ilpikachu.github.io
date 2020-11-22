@@ -6,7 +6,10 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitle: `Qiyuan Bao`,
+    siteTitleAlt: `Qiyuan's blog`,
+    siteDescription: `Qiyuan's personal blog`,
+    siteLanguage: `en`,
   },
   plugins: [
     {
@@ -25,12 +28,16 @@ module.exports = {
         ],
         externalLinks: [
           {
-            name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            name: `GitHub`,
+            url: `https://github.com/ilPikachu`,
           },
           {
-            name: `Instagram`,
-            url: `https://www.instagram.com/lekoarts.de/`,
+            name: `Linkedin`,
+            url: `https://www.linkedin.com/in/qiyuan-bao/`,
+          },
+          {
+            name: `Resume`,
+            url: `https://drive.google.com/file/d/1zam1kDK-sYlzq36nsf58o0ryhkN9KXc4/view?usp=sharing`,
           },
         ],
       },
