@@ -62,7 +62,7 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-383037c12fa427d70cc8.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
-/adapter-in-android
+/adapter-pattern
   Link: </webpack-runtime-dfcd2ee15211a37539f0.js>; rel=preload; as=script
   Link: </framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
   Link: </app-bf8802441076b99f857f.js>; rel=preload; as=script
@@ -70,7 +70,7 @@
   Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-022618ea539eb2ad2b3e.js>; rel=preload; as=script
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-ced32cdd205ad6bb634d.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/adapter-in-android/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/adapter-pattern/page-data.json>; rel=preload; as=fetch; crossorigin
 /about
   Link: </webpack-runtime-dfcd2ee15211a37539f0.js>; rel=preload; as=script
   Link: </framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
@@ -89,6 +89,15 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-7c91c893f11850b075cb.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/android/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/design-pattern
+  Link: </webpack-runtime-dfcd2ee15211a37539f0.js>; rel=preload; as=script
+  Link: </framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
+  Link: </app-bf8802441076b99f857f.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-022618ea539eb2ad2b3e.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-7c91c893f11850b075cb.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/design-pattern/page-data.json>; rel=preload; as=fetch; crossorigin
 /offline-plugin-app-shell-fallback/
   Link: </webpack-runtime-dfcd2ee15211a37539f0.js>; rel=preload; as=script
   Link: </framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
