@@ -3,5 +3,7 @@
 <url> <loc>https://ilpikachu.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ilpikachu.github.io/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ilpikachu.github.io/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ilpikachu.github.io/adapter-in-android</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ilpikachu.github.io/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ilpikachu.github.io/tags/android</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
