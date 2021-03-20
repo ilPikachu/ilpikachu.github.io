@@ -36,10 +36,6 @@ module.exports = {
             name: `Linkedin`,
             url: `https://www.linkedin.com/in/qiyuan-bao/`,
           },
-          {
-            name: `Resume`,
-            url: `https://drive.google.com/file/d/1zam1kDK-sYlzq36nsf58o0ryhkN9KXc4/view?usp=sharing`,
-          },
         ],
       },
     },
